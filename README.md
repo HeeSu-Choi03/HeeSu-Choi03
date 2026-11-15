@@ -1,89 +1,62 @@
-<div align= "center">
-    <img src="https://capsule-render.vercel.app/api?type=soft&color=gradient&height=120&text=Welcome!%20I'm%20Heesu."&animation=&fontColor=ffffff&fontSize=10" />
-    </div>
-    <div align= "center">
-    <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🛠️ Tech Stacks </h2> <br> 
-    <div style="margin: 0 auto; text-align: center;" align= "center">
-          <div style="display:flex; flex-direction:column; align-items:flex-start;">
-    <!-- Tech Stacks -->
-    <p><strong>Tech Stacks</strong></p>
-    <div>
-        <img src="https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
-        <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white">
-        <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white">
-        <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=Java&logoColor=white"> 
-        <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white">
-        <img src="https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white">
-        <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white">
-        <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white"> 
-        <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"> 
-        <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white">
-        <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=C&logoColor=white">
-        <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=C%2B%2B&logoColor=white">
-    </div>
-    <!-- Database -->
-    <p><strong>Database</strong></p>
-    <div>
-        <img src="https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=white"> 
-        <img src="https://img.shields.io/badge/firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=white"> 
-        <img src="https://img.shields.io/badge/RocksDB-000000?style=for-the-badge&logo=rocksdb&logoColor=white">
-        <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white">
-    </div>
-    <!-- Server -->
-    <p><strong>Server</strong></p>
-    <div>
-        <img src="https://img.shields.io/badge/Amazon AWS-232F3E?style=for-the-badge&logo=amazonwebservices&logoColor=white">
-        <img src="https://img.shields.io/badge/Amazon EC2-FF9900?style=for-the-badge&logo=amazonec2&logoColor=white">
-        <img src="https://img.shields.io/badge/Amazon S3-569A31?style=for-the-badge&logo=amazons3&logoColor=white">
-    </div>
-    <!-- Application -->
-    <p><strong>Application</strong></p>
-    <div>
-        <img src="https://img.shields.io/badge/Android Studio-3DDC84?style=for-the-badge&logo=androidstudio&logoColor=white">
-        <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=Flutter&logoColor=white">
-    </div>
-    <!-- Development Tools -->
-    <p><strong>Development Tools</strong></p>
-    <div>
-        <img src="https://img.shields.io/badge/Visual Studio Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white">
-        <img src="https://img.shields.io/badge/Visual Studio-5C2D91?style=for-the-badge&logo=visual-studio&logoColor=white">
-        <img src="https://img.shields.io/badge/Anaconda-44A833?style=for-the-badge&logo=anaconda&logoColor=white">
-        <img src="https://img.shields.io/badge/Intellij IDEA-000000?style=for-the-badge&logo=intellijidea&logoColor=white">
-        <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white">
-        <img src="https://img.shields.io/badge/Eclipse-2C2255?style=for-the-badge&logo=eclipseide&logoColor=white">
-        <img src="https://img.shields.io/badge/Google Colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=white">
-    </div>
-    <!-- Data Analysis & AI -->
-    <p><strong>Data Analysis & AI</strong></p>
-    <div>
-        <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white">
-        <img src="https://img.shields.io/badge/Matplotlib-0F5277?style=for-the-badge&logoColor=white">
-        <img src="https://img.shields.io/badge/Seaborn-6174A1?style=for-the-badge&logoColor=white">
-        <img src="https://img.shields.io/badge/Scikit Learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white">
-        <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white">
-    </div>
-    <!-- Version Control -->
-    <p><strong>Version Control</strong></p>
-    <div>
-        <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white">
-        <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white">
-    </div>
-    <!-- Communication -->
-    <p><strong>Communication</strong></p>
-    <div>
-        <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white">
-        <img src="https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white">
-        <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white">
-        <img src="https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white">
-    </div> 
+# 최희수 · 백엔드 개발자
 
-<br>
-<br>
+**언제나 믿고 맡길 수 있는, 상수 같은 개발자**
 
-<a href="https://www.gitanimals.org/en-US?utm_medium=image&utm_source=jajagyu&utm_content=farm">
+문서대로 했는데 안 될 때는 추측하지 않고 실제로 오가는 값을 확인하며, 실제 환경에서 돌려 본 것만 완료로 봅니다.
+
+📄 **포트폴리오**: https://heesu-choi03.github.io  ·  ✉️ cv36869384@gmail.com
+
+<a href="https://www.gitanimals.org/en-US?utm_medium=image&utm_source=HeeSu-Choi03&utm_content=farm">
 <img
-  src="https://render.gitanimals.org/farms/jajagyu"
+  src="https://render.gitanimals.org/farms/HeeSu-Choi03"
   width="600"
   height="300"
 />
 </a>
+
+## 주요 프로젝트
+
+### [일한만큼](https://github.com/easython-2026/back) · 2026.11
+`Java 21` `Spring Boot 4` `MySQL` `AWS` `Docker` `GitHub Actions`
+
+- 이주노동자의 근무 기록과 계약서 · 급여명세서를 대조해 못 받은 임금을 계산하는 서비스의 백엔드 (4인, 해커톤)
+- API 75개와 ALB + Auto Scaling + RDS Multi-AZ 인프라, 장기 키 없는 OIDC 자동 배포를 담당
+- AI는 서류 읽기와 번역에만 쓰고, 금액 계산과 판단은 코드가 하도록 설계
+
+### [톡깨 (TalkQQuest)](https://github.com/HeeSu-Choi03/TalkQQuest-backend) · 2026.06 – 08
+`TypeScript` `Node.js` `Express` `Prisma` `MySQL` `Redis` `AWS`
+
+- AI가 추천하는 현실 대화 미션 서비스의 백엔드 (백엔드 4인, UMC)
+- 인증 · 결제 · 뱃지 · 리포트 도메인과 EC2 · S3 · CI/CD를 처음부터 구축
+- 단위 테스트로는 잡히지 않던 회귀를 실서버 재현으로 배포 전에 발견
+
+### [여운 (Yeo-woon)](https://github.com/MeshTeam07/Yeo-woon_Back) · 2026.06
+`TypeScript` `Node.js` `Express` `Prisma` `MySQL` `AWS S3`
+
+- 장소 기반 콘텐츠 공유 서비스 · **MESH HACKATHON with AWS 최우수상**
+- 인증과 공통 응답 · 에러 체계, 캡슐(콘텐츠) · 음악 도메인 API 담당
+
+그 밖의 프로젝트와 문제 해결 과정은 [포트폴리오](https://heesu-choi03.github.io)에 있습니다.
+
+## 논문
+
+- **LiteBreak: 마이크로서비스 연쇄 장애 방지를 위한 초경량 가속 신경망 서킷 브레이커** · ACK 2026 (한국정보처리학회 학술대회) · 제1저자 발표
+  튜닝한 LSTM과 같은 수준의 F1을 파라미터 251배, 추론 지연 약 50배 적은 비용으로 달성
+
+## 수상 · 대회 · 자격
+
+| 시기 | 내용 |
+|---|---|
+| 2026.11 | SK하이닉스 AI 해커톤 2026 본선 진출 |
+| 2026.08 | 2026년 1학기 소프트웨어학과 차석 |
+| 2026.06 | MESH HACKATHON with AWS 최우수상 |
+| 2026.02 | 2025년 2학기 단국대학교 전교 남자 수석 |
+| 2026.10 | NAVER Cloud Platform Certified Associate (NCA) |
+| 2025 | SQL 개발자(SQLD) · 데이터분석 준전문가(ADsP) |
+| 어학 | TOEIC 795 |
+
+## 기술
+
+- **백엔드** Java · Spring Boot · JPA / TypeScript · Node.js · Express · Prisma
+- **데이터** MySQL · Redis
+- **인프라** AWS (EC2 · ALB · Auto Scaling · RDS · S3) · Docker · GitHub Actions
